@@ -1,20 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>oyasumi</title><link>https://oyasu.github.io/</link><description>Recent content on oyasumi</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sat, 30 Jan 2021 15:00:00 +0900</lastBuildDate><atom:link href="https://oyasu.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>AmongUs [85/100]</title><link>https://oyasu.github.io/2021/01/amongus-85/100/</link><pubDate>Sat, 30 Jan 2021 15:00:00 +0900</pubDate><guid>https://oyasu.github.io/2021/01/amongus-85/100/</guid><description>どんなゲーム いわゆる人狼系ゲームです。
-クルー（村人）とインポスター（人狼）に分かれ、クルーはインポスターの排除か全タスク終了を行うことで勝利し、インポスターはクルーの殺害や追放でクルー側と同数になることで勝利します。
-インポスター側はサボタージュ（設備を故障させる）することができ、時間内に修理できない場合もインポスターが勝利になります。
-2020年の夏頃に著名なストリーマーがこぞってやり始め、一大ブームになりました。
-感想 85点
-ブームが来ていることはTwitchなどで知っていましたが、具体的に人を集めてやろうと思ったのが昨年末あたり。プレイしたのはブームが落ち着いた頃になります。
-ゲームを買っても一緒にプレイしてくれる友達は付属していないので、会社で一緒に遊んでくれそうな人たちを誘ってプレイしました。
-また、議論はDiscord（ボイスチャット）を使ってやりたかったので、AutoMuteUsというBotをセルフホスト（Docker）で用意し、ボイスチャットのスピーカー・マイクのON/OFFをゲーム状態と同期できるようにしました。
-人狼系ゲームだと Project Winter というゲームをやったことがありますが、AmongUsはもっとカジュアルな感じになっており、ゲームに慣れるまでの時間が非常に短く感じました。
-慣れるまでの時間が短いことによって、プレイヤーが楽しむことができる要素（議論や信頼、アリバイ作りなど）をすぐに味わうことができるので、賢い作りになってるなぁと思いました。
-このゲームの特色としては、アクションパート（会話できずタスクをこなす時間）と議論パート（会話し追放投票などを行う時間）が明確に分かれている部分です。
-これもプレイヤーが同時に行う（考える）ことを減らす良い点だと考えます。
-実際プレイしてみて、どうだったかというと非常に楽しい体験でした。
-アクションパートで仲間の信頼を築きつつ、怪しい人を探し出し、議論パートで誰が怪しいと思ったかを主張する。インポスター側で雑な殺害をやってしまい、それを議論パートで他の人になすりつけるなど。
-社員同士でプレイしたため、普段関わりが無く喋ったことがない人と話し合う（罪をなすりつける）必要があったので、親睦を深めるためにはもってこいなゲームだと思いました。
-本来、ゲーム自体にはテキストチャットの議論機能しかないため、ボイスチャットを使う形式にしたのもゲームの体験性を高めた気がします。
-カジュアルながら、議論したり信頼を得たりと人とコミュニケーション取る楽しさを教えてくれるゲームでした。
-価格も500円ほどなので、一緒に遊んでくれる知り合いがいれば間違いなく楽しめるゲームだと思います。
-軽くお酒を飲みながら、気軽に遊ぶのもオススメです。
-追記：プレイ方法にパッション押しという方法があり、議論中に不利な状態に陥ったとき情に訴える戦法です。一度試してみましたが、非常に胡散臭いと一蹴されました。</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>oyasumi</title><link>https://oyasu.github.io/</link><description>Recent content on oyasumi</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sat, 30 Jan 2021 15:00:00 +0900</lastBuildDate><atom:link href="https://oyasu.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>AmongUs [85/100]</title><link>https://oyasu.github.io/2021/01/amongus-85/100/</link><pubDate>Sat, 30 Jan 2021 15:00:00 +0900</pubDate><guid>https://oyasu.github.io/2021/01/amongus-85/100/</guid><description>&lt;h1 id="どんなゲーム">どんなゲーム&lt;/h1>
+&lt;p>いわゆる人狼系ゲームです。&lt;br>
+クルー（村人）とインポスター（人狼）に分かれ、クルーはインポスターの排除か全タスク終了を行うことで勝利し、インポスターはクルーの殺害や追放でクルー側と同数になることで勝利します。&lt;br>
+インポスター側はサボタージュ（設備を故障させる）することができ、時間内に修理できない場合もインポスターが勝利になります。&lt;/p>
+&lt;p>2020年の夏頃に著名なストリーマーがこぞってやり始め、一大ブームになりました。&lt;/p></description></item></channel></rss>
